@@ -1,7 +1,7 @@
-12
-male
-im a scratch developer but also an html developer.
-my scratch account is @_-YourLocalPlayer-_
+- 12
+- male
+- im a scratch developer but also an html developer.
+- my scratch account is @_-YourLocalPlayer-_
 
 <!---
 Originallity/Originallity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
